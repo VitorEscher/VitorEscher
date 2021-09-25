@@ -13,7 +13,7 @@
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-sql" height="30" width="40" src="https://camo.githubusercontent.com/1988670fe8f937a8990bbcd48590174e803cf11bfb771330f207a920c589f6c4/68747470733a2f2f63646e322e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f70726f6772616d6d696e672d35302f36342f3230365f70726f6772616d6d696e672d73716c2d646174612d64617461626173652d3531322e706e67">
+  <img align="center" alt="Vitor-sql" height="30" width="30" src="https://primedb.com.br/wp-content/uploads/2018/12/microsoft-sql-server-primedb.png">
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
