@@ -15,6 +15,7 @@
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vitor-sql" height="30" width="30" src="https://primedb.com.br/wp-content/uploads/2018/12/microsoft-sql-server-primedb.png">
   <img align="center" alt="Vitor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Vitor-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 </div>
   
   ##
