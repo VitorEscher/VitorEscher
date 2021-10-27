@@ -1,7 +1,7 @@
 ### Olá! Eu sou Vitor Escher.
 
-- 🔭 Hoje eu trabalho com Compras.
-- 🌱 Estudando desenvolvimento Full Stack. Conhecimentos em SQL, PYTHON 3, HTML, CSS e JS.
+- 🔭 Estudante de Front-End.
+- 🌱 Conhecimentos básicos em JS,HTML,CSS,SQL,REACT.JS
 - 📫 Contato: vitorgrinholliescher@gmail.com
 
 <div>
