@@ -1,6 +1,6 @@
 ### Olá! Eu sou Vitor Escher.
 
-- 🔭 Estudante de Front-End.
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas - FAM
 - 🌱 Conhecimentos básicos em JS, HTML, CSS, SQL, REACT.JS e PYTHON 3.
 - 📫 Contato: vitorgrinholliescher@gmail.com
 
