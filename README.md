@@ -1,7 +1,7 @@
 ### Olá! Eu sou Vitor Escher.
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas - FAM 1º SEM
-- 🌱 Conhecimentos básicos em JS, HTML, CSS, SQL, REACT.JS e PYTHON 3.
+- 🌱 Conhecimentos básicos em JS, HTML, CSS, SQL, REACT.JS e PYTHON 3. Estudando NodeJS atualmente.
 - 📫 Contato: vitorgrinholliescher@gmail.com
 
 <div>
