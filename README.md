@@ -1,6 +1,6 @@
 ### Olá! Eu sou Vitor Escher.
 
-- 🔭 Trabalho como Trainee de Ti focado em Data Science.
+- 🔭 Trainee de Ti com foco em Data Science.
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas - FAM 1º SEM
 - 🌱 Conhecimentos básicos em JS, HTML, CSS, SQL, REACT.JS e PYTHON 3.
 - 📫 Contato: vitorgrinholliescher@gmail.com
