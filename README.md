@@ -2,7 +2,7 @@
 
 - 🔭 Trainee de TI.
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas - FAM 1º SEM
-- 🌱 Conhecimentos básicos em JS, HTML, CSS, SQL. Em estudo: JAVA e C.
+- 🌱 Conhecimentos básicos em JS, HTML, CSS, SQL. Em estudo: JAVA.
 - 📫 Contato: vitorgrinholliescher@gmail.com
 
 <div>
