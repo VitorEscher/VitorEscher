@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/VitorEscher">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorEscher&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEscher&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorEscher&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEscher&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-sql" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuhhgPzbYv0EKuhrUqo9JvD_n8dem860CAnA&usqp=CAU">
