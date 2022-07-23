@@ -2,7 +2,8 @@
 
 - 🔭 Trainee de Tecnologia.
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas - FAM 2º SEM
-- 🌱 Conhecimentos básicos em SQL. Em estudo: Java, Spring boot e MongoDB.
+- 🌱 Conhecimentos básicos em SQL Server. 
+- 🌱 Em estudo: Java, Spring boot, MongoDB e Heroku.
 - 📫 Contato: vitorgrinholliescher@gmail.com
 
 <div>
