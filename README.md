@@ -2,7 +2,7 @@
 
 - 🔭 Trainee de Tecnologia.
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas - FAM 2º SEM
-- 🌱 Conhecimentos básicos em SQL Server. 
+- 🌱 Conhecimentos básicos em SQL Server, Html, Css e React.
 - 🌱 Em estudo: Java, Spring boot, MongoDB e Heroku.
 - 📫 Contato: vitorgrinholliescher@gmail.com
 
@@ -13,6 +13,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-sql" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuhhgPzbYv0EKuhrUqo9JvD_n8dem860CAnA&usqp=CAU">
+  <img align="center" alt="Vitor-Html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Vitor-Css" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Vitor-Java" height="40" width="40" src="https://raw.githubusercontent.com/VitorEscher/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java.svg">
   <img align="center" alt="Vitor-Spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Vitor-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
