@@ -2,8 +2,8 @@
 
 - 🔭 Trainee de Tecnologia.
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas - FAM 2º SEM
-- 🌱 Conhecimentos básicos em SQL Server, HTML e CSS.
-- 🌱 Em estudo: Java e Spring boot.
+- 🌱 Conhecimentos básicos em SQL Server, HTML/CSS e JAVA.
+- 🌱 Interesses em estudo: Docker, JAVA, Spring boot, Heroku e API.
 - 📫 Contato: vitorgrinholliescher@gmail.com
 
 <div>
