@@ -14,7 +14,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-sql" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuhhgPzbYv0EKuhrUqo9JvD_n8dem860CAnA&usqp=CAU">
   <img align="center" alt="Vitor-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Vitor-Spring" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 </div>
   
   ##
