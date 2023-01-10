@@ -1,9 +1,9 @@
 ### Olá! Eu sou Vitor Escher.
 
-- 🔭 Trainee de Tecnologia.
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas - FAM 2º SEM
-- 🌱 Conhecimentos básicos em SQL Server, HTML/CSS e JAVA.
-- 🌱 Interesses em estudo: Docker, JAVA, Spring boot, Heroku e API.
+- 🔭 Assistente de sistemas.
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas - FAM 3º SEM
+- 🌱 Conhecimentos básicos em SQL Server, JAVA, Python e Alteryx (ETL).
+- 🌱 Interesses em estudo: Linux, Power BI, Machine Learning.
 - 📫 Contato: vitorgrinholliescher@gmail.com
 
 <div>
@@ -13,7 +13,8 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-sql" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuhhgPzbYv0EKuhrUqo9JvD_n8dem860CAnA&usqp=CAU">
-  <img align="center" alt="Vitor-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Vitor-Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Vitor-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
   
   ##
