@@ -1,7 +1,7 @@
 <strong>Olá, seja bem vindo ao meu perfil ! 
--  Assistente de sistemas II em consultoria tributária.
+-  Assistente de sistemas II, RPA developer, Botcity
 -  Estudante de Análise e Desenvolvimento de Sistemas - FAM 5º SEM
--  Aspirante em RPA, Botcity e UIpath.
+-  Certificado Core Alteryx Designer (ETL)
 </strong><br>
 
 <div>
@@ -18,7 +18,6 @@
 <div style="display: inline_block"><strong>Conhecimentos:</strong><br><br>
   <img align="center" alt="Vitor-Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Vitor-Botcity" height="45" width="45" src="https://botcity.gallerycdn.vsassets.io/extensions/botcity/botcity-studio/0.2.12/1706810388812/Microsoft.VisualStudio.Services.Icons.Default">
-  <img align="center" alt="Vitor-Uipath" height="45" width="45" src="https://companieslogo.com/img/orig/PATH-4f96bcbf.png?t=1649160715">
 </div><br>
 
 <div style="display: inline_block"><strong>Certificações</strong><br><br>
