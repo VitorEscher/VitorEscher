@@ -6,11 +6,6 @@
 -  Certificado Core Alteryx Designer (ETL)
 -  Certificado em Automação de Processos com RPA UiPath 3.0 - Automatize Process - 2025
 </strong><br>
-
-<div>
-  <a href="https://github.com/VitorEscher">
-  <img height="110em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VitorEscher&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-</div><br>
   
 <div>
   <a href = "mailto:vitorgrinholliescher@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
